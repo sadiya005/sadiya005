@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadiya Sajid</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiya005&label=Profile%20views&color=0e75b6&style=flat" alt="sadiya005" /> </p>
 
-- 📫 How to reach me **sadiyasmart007@gmail.com**
+- 📫 How to reach me **sadiya.sajid135@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bhHnZWoNXbXgiuR9baNvAzoCqmALHod9/view?usp=drivesdk](https://drive.google.com/file/d/1bhHnZWoNXbXgiuR9baNvAzoCqmALHod9/view?usp=drivesdk)
 
